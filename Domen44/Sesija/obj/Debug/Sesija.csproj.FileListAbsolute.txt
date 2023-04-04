@@ -1,0 +1,7 @@
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\bin\Debug\Sesija.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\bin\Debug\Sesija.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\bin\Debug\Domen.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\bin\Debug\Domen.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\obj\Debug\Sesija.csprojResolveAssemblyReference.cache
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\obj\Debug\Sesija.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Sesija\obj\Debug\Sesija.pdb

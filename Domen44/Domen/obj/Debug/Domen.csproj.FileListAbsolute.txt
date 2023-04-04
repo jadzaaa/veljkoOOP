@@ -1,0 +1,4 @@
+C:\Users\TrecaBGD\Documents\dn\Domen44\Domen\bin\Debug\Domen.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Domen\bin\Debug\Domen.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Domen\obj\Debug\Domen.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Domen\obj\Debug\Domen.pdb

@@ -1,0 +1,14 @@
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Forme.exe.config
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Forme.exe
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Forme.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Domen.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Sesija.dll
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Domen.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\bin\Debug\Sesija.pdb
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.csprojResolveAssemblyReference.cache
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.Form1.resources
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.Properties.Resources.resources
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.RadSaUcenikom.resources
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.csproj.GenerateResource.Cache
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.exe
+C:\Users\TrecaBGD\Documents\dn\Domen44\Forme\obj\Debug\Forme.pdb
